@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SapphApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_1">Calorie Counter</string>
+    <string name="button_2">Med counter(not implemented, bitch)</string>
+    <string name="button_3">Mouse (NOT IMPLEMENTED YOU CUNT)</string>
+    <string name="cal_count_button_add">Add</string>
+    <string name="cal_count_button_reset">Reset</string>
+    <string name="cal_count_button_undo">Undo</string>
+</resources>
